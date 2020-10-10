@@ -237,7 +237,7 @@ def convert_checkpoint(dev, input_file, output_file, arguments):
                         weights *= 2**(tc.dev.ACTIVATION_BITS-1)
 
                     if first:
-                        weights = 2 * weights
+                        weights *= 2
 
                     # Store modified weight/bias back into model
                     new_checkpoint_state[bias_name] = weights
