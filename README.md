@@ -551,7 +551,7 @@ There are two ways to install the MSDK.
 
 #### Method 1: MSDK Installer
 
-An automatic installer is available for the MSDK.  Instructions on downloading, installing, and getting started with the MSDK's supported development environments are found in the [**MSDK User Guide**](https://analogdevicesinc.github.io/msdk//USERGUIDE/).
+An automatic installer is available for the MSDK.  Instructions on downloading, installing, and getting started with the MSDK's supported development environments are found in the [**MSDK User Guide**](https://analogdevicesinc.github.io/msdk/USERGUIDE/).
 
 After installation and setup, continue with the [Final Check](#final-check).
 
